@@ -23,5 +23,5 @@ agent any
                 '''
             }
         }
-    }stages closing
+    }//stages closing
 }//pipeline closing
